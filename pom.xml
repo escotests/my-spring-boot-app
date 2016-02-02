@@ -18,8 +18,8 @@
     </parent>
 
     <scm>
-        <connection>scm:git:https://github.com/escoem/my-spring-boot-app.git</connection>
-        <url>https://github.com/escoem/my-spring-boot-app</url>
+        <connection>scm:git:https://github.com/escotests/my-spring-boot-app.git</connection>
+        <url>https://github.com/escotests/my-spring-boot-app</url>
       <tag>HEAD</tag>
   </scm>
 
